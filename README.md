@@ -2,6 +2,10 @@
 
 A new Flutter application for customize your login page with parallax effect.
 
+## Screenshot
+
+![Image](https://github.com/Detey/Parallax_Login/blob/master/screen-shoot.gif)
+
 ## Getting Started
 
 This project is a starting point for a Flutter application.
