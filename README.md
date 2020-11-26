@@ -1,6 +1,6 @@
 # parallax_login
 
-A new Flutter application.
+A new Flutter application for customize your login page with parallax effect.
 
 ## Getting Started
 
